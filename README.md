@@ -1,4 +1,4 @@
-#Amit Chauhan
+Amit Chauhan
 <br>
 my first website.
 author - amit 
